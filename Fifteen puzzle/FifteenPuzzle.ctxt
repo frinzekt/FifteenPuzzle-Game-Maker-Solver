@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=FifteenPuzzle
+comment1.params=
+comment1.target=void\ setUpGoal()
+comment10.params=x\ y
+comment10.target=int[][]\ moveTile_predict(int,\ int)
+comment11.params=
+comment11.target=int\ getXspace()
+comment12.params=
+comment12.target=int\ getYspace()
+comment2.params=initialGrid
+comment2.target=FifteenPuzzle(int[][])
+comment3.params=size\ IsAnswer
+comment3.target=FifteenPuzzle(int,\ boolean)
+comment4.params=
+comment4.target=int[][]\ getGrid()
+comment5.params=
+comment5.target=int[][]\ getGoal()
+comment6.params=
+comment6.target=int\ getsize()
+comment7.params=x\ y
+comment7.target=boolean\ legalClick(int,\ int)
+comment8.params=
+comment8.target=boolean\ finished()
+comment9.params=x\ y
+comment9.target=void\ moveTile(int,\ int)
+numComments=13
